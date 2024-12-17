@@ -1,6 +1,8 @@
 markdown resume
 ===============
 
+Write resume in Markdown. Convert to HTML with Pandoc. Convert to PDF with Chrome headless.
+
 Written by ChatGPT.
 
 ```bash
